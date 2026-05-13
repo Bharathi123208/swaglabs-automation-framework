@@ -1,0 +1,7 @@
+selenium==4.34.2
+pytest==8.4.1
+webdriver-manager==4.0.2
+allure-pytest==2.15.0
+pytest-html==4.1.1
+pytest-xdist==3.8.0
+pytest-rerunfailures==15.1
