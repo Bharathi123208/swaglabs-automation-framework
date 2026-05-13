@@ -66,7 +66,60 @@ Auto_Swag_Lab/
 ├── pytest.ini
 ├── requirements.txt
 └── README.md
+```
 
+## Installation
+
+### Clone Repository
+
+```bash
+git clone <your-github-repository-link>
+```
+
+### Navigate to Project Folder
+
+```bash
+cd Auto_Sauce
+```
+
+### Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+## Running Test Cases
+
+### Run Complete Test Suite
+
+```bash
+python -m pytest -v --alluredir=reports
+```
+
+### Run Specific Test File
+
+```bash
+python -m pytest tests/test_login.py
+```
+
+## Generate Allure Report
+
+### Generate Report
+
+```bash
+allure generate reports -o allure-report --clean
+```
+
+### Open Report
+
+```bash
+allure serve reports
+```
+
+## Author
+
+**Bharathi D**  
+SDET | Automation Testing | Selenium | Python | API Testing
 
 
 
