@@ -80,16 +80,31 @@ Click below to watch automation execution video
 
 ![Allure Report](assets/Reports.png)
 
+
+## Suite Report
 ![Suite Report](assets/Suites.png)
 
 
 ## Test Execution Report
 
+![Test Report](assets/Dashboard.png)
+
+
+## Category Tab
+
 ![Category1 Report](assets/category_1.png)
 
 ![Category2 Report](assets/category_2.png)
 
-![Test Report](assets/Dashboard.png)
+## Timeline Tab
+
+![Timeline Report](assets/Timeline.png)
+
+## Packages and Behaviour Tab
+
+![Packages Report](assets/Behaviour.png)
+
+![Behaviour Report](assets/Packages.png)
 
 
 ## Installation
