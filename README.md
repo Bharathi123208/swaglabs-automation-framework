@@ -67,6 +67,19 @@ Auto_Swag_Lab/
 ├── requirements.txt
 └── README.md
 ```
+## Walkthrough Video
+
+https://github.com/Bharathi123208/swaglabs-automation-framework/issues/1#issue-4439558356
+
+
+# Snapshots of Allure Report and Dashboard
+
+## Allure Report
+
+![Allure Report]("C:\Users\Bharathi\OneDrive\Pictures\Screenshots\Screenshot 2026-05-13 221300.png")
+
+
+
 
 ## Installation
 
