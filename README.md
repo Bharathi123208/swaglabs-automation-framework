@@ -74,9 +74,12 @@ https://github.com/Bharathi123208/swaglabs-automation-framework/issues/1#issue-4
 
 # Snapshots of Allure Report and Dashboard
 
-## Allure Report
+## Framework Demo
 
-![Allure Report]("C:\Users\Bharathi\OneDrive\Pictures\Screenshots\Screenshot 2026-05-13 221300.png")
+Click below to watch automation execution video
+
+![Watch Demo](assets/framework-demo.mp4)
+
 
 
 
