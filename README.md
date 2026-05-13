@@ -67,21 +67,29 @@ Auto_Swag_Lab/
 ├── requirements.txt
 └── README.md
 ```
-## Walkthrough Video
-
-https://github.com/Bharathi123208/swaglabs-automation-framework/issues/1#issue-4439558356
-
-
-# Snapshots of Allure Report and Dashboard
-
 ## Framework Demo
 
 Click below to watch automation execution video
 
-![Watch Demo](assets/framework-demo.mp4)
+![Framework Walkthrough] https://github.com/Bharathi123208/swaglabs-automation-framework/issues/1#issue-4439558356
 
 
+# Snapshots of Allure Report and Dashboard
 
+## Allure Report
+
+![Allure Report](assets/Reports.png)
+
+![Suite Report](assets/Suites.png)
+
+
+## Test Execution Report
+
+![Category1 Report](assets/category_1.png)
+
+![Category2 Report](assets/category_2.png)
+
+![Test Report](assets/Dashboard.png)
 
 
 ## Installation
