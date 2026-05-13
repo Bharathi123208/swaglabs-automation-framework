@@ -28,20 +28,21 @@ This framework automates critical user workflows and validates core functionalit
 
 ## Framework Features
 
-Page Object Model (POM) architecture
-Reusable page methods
-End-to-end automation flow
-Detailed Allure reporting
-Pass/Fail execution summary
-Scalable test structure
-Screenshot capture for failed tests
-Future Enhancements
-Jenkins CI/CD Integration
-Parallel Test Execution
-Cross Browser Testing
-Data-Driven Testing
+- Page Object Model (POM) architecture
+- Reusable page methods
+- End-to-end automation flow
+- Detailed Allure reporting
+- Pass/Fail execution summary
+- Scalable test structure
+- Screenshot capture for failed tests
 
+## Future Enhancements
 
+- Jenkins CI/CD Integration
+- Parallel Test Execution
+- Cross Browser Testing
+- Data-Driven Testing
+  
 ## Project Structure
 
 ```text
@@ -67,37 +68,5 @@ Auto_Swag_Lab/
 └── README.md
 
 
-
-### Clone the repository
-
-git clone <your-github-repo-link>
-
-### Navigate to project folder
-
-cd Auto_Sauce
-
-### Install dependencies
-
-pip install -r requirements.txt
-
-### Running Test Cases
-
-### Run complete test suite:
-
-python -m pytest -v --alluredir=reports
-
-### Run a specific test file:
-
-python -m pytest tests/test_login.py
-
-## Generate Allure Report
-
-### Generate report:
-
-allure generate reports -o allure-report --clean
-
-### Open report:
-
-allure serve reports
 
 
