@@ -26,6 +26,22 @@ This framework automates critical user workflows and validates core functionalit
 - Allure Reporting
 - WebDriver Manager
 
+## Framework Features
+
+Page Object Model (POM) architecture
+Reusable page methods
+End-to-end automation flow
+Detailed Allure reporting
+Pass/Fail execution summary
+Scalable test structure
+Screenshot capture for failed tests
+Future Enhancements
+Jenkins CI/CD Integration
+Parallel Test Execution
+Cross Browser Testing
+Data-Driven Testing
+
+
 ## Project Structure
 
 ```text
@@ -84,21 +100,4 @@ allure generate reports -o allure-report --clean
 
 allure serve reports
 
-Framework Features
 
-Page Object Model (POM) architecture
-Reusable page methods
-End-to-end automation flow
-Detailed Allure reporting
-Pass/Fail execution summary
-Scalable test structure
-Screenshot capture for failed tests
-Future Enhancements
-Jenkins CI/CD Integration
-Parallel Test Execution
-Cross Browser Testing
-Data-Driven Testing
-
-# Author
-Bharathi D
-SDET | Automation Testing | Selenium | Python | API Testing
